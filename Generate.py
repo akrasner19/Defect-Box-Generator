@@ -11,7 +11,8 @@ DOTNUMBER = 100 #add variable dotnumber as a range in future
 BOXCOLOR = 'red'
 BOXTHICKNESS = 4
 SEEDLIST = ["testingseed1",
-	"testingseed2"]
+	"testingseed2",
+	"testingseed3"]
 
 for SEED in SEEDLIST:
 	drawing = draw.Drawing(CANVASWIDTH,CANVASHEIGHT,origin='center')
