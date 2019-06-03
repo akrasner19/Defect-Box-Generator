@@ -12,7 +12,8 @@ BOXCOLOR = 'red'
 BOXTHICKNESS = 4
 SEEDLIST = ["testingseed1",
 	"testingseed2",
-	"testingseed3"]
+	"testingseed3",
+	"weirdseed"]
 
 for SEED in SEEDLIST:
 	drawing = draw.Drawing(CANVASWIDTH,CANVASHEIGHT,origin='center')

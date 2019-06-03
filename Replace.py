@@ -1,7 +1,7 @@
 import os
 import shutil
 
-REPLACEMENTPATH = 'D:\\Unity Projects\\Symposium Demo Shared SA\\Assets\\'
+REPLACEMENTPATH = 'D:\\Unity Projects\\Symposium Demo Shared SA\\Assets\\All_Defect_Resources\\'
 
 success = False
 
